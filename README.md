@@ -1,2 +1,3 @@
 # awesone-low-carbon-computing
-A list of low carbon computing resources
+
+Please find our main repository on Codeberg at https://codeberg.org/jgrizou/Low-Carbon-Computing-Teaching-Resources
